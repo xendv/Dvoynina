@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GIFsObserver</string>
+    <string name="tab_latest">Последние</string>
+    <string name="tab_top">Лучшие</string>
+    <string name="tab_hot">Горячие</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_random">Случайные</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/previous"
+        android:icon="@drawable/ic_baseline_arrow_back_24"
+        android:title="Prevoius" />
+    <item
+        android:id="@+id/next"
+        android:icon="@drawable/ic_baseline_arrow_forward_24"
+        android:title="Next" />
+
+</menu>
